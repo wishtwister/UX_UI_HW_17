@@ -121,7 +121,7 @@ h1{
 
 
 #hero {
-    background-image: url('../UX_UI_HW_17/Images/Hero.png');
+    background-image: url(Images/Hero.png);
     background-size: 1450px;
     background-repeat: no-repeat;
     background-position: top;
